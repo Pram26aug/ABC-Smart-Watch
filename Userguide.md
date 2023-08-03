@@ -10,11 +10,17 @@ Thank you for purchasing and using the ABC company’s smartwatch. You can read 
 # Contents #
 
 Basic Information	3
+
 Setting up your smartwatch	4
+
 ABC Smartwatch Features You Need to Consider	5
+
 Notes	6
+
 Frequently Asked Questions 	6
+
 Case Study	7
+
 References	8
 
 
