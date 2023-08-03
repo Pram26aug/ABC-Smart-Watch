@@ -23,5 +23,26 @@ Case Study	7
 
 References	8
 
+# Basic Information #
+
+# Parameters #
+
+Product Specifications	Details
+
+Bluetooth	BT 4.0
+
+Charging mode	Clip-charging & magnetic-suction type
+
+Charging voltage	DC 5V
+
+Charging current	100mA
+
+Screen	1.3 TFT color screen
+
+Battery type	Polymer lithium battery
+
+Battery capacity	180mAh
+
+Watch material	Zinc alloy or plastic
 
 
