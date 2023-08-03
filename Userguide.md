@@ -27,24 +27,26 @@ References	8
 
 # Parameters #
 
-| ProductSpecifications | | Details                               |
+| Description | | Syntex |
 
-| ---------------------- | | ------------------------------------- |
+| ----------- | | ------ |
 
-| Bluetooth              | | BT4.0                                |
+| Product Specifications | | Details |
 
-| Chargingmode          | | Clip-charging&magnetic-suctiontype |
+| Bluetooth              | | BT4.0                               |
 
-| Chargingvoltage       | | DC5V                                 |
+| Charging mode          | | Clip-charging & magnetic-suction type |
 
-| Chargingcurrent       | |100mA                                  |
+| Charging voltage       | | DC 5V                                 |
 
-| Screen                 | | 1.3TFTcolorscreen                  |
+| Charging current       | | 100mA                                  |
 
-| Batterytype           | | Polymerlithiumbattery               |
+| Screen                 | | 1.3 TFT color screen                  |
 
-| Batterycapacity       | | 180mAh                                |
+| Battery type           | | Polymer lithium battery               |
 
-| Watchmaterial         | | Zincalloyorplastic                 |
+| Battery capacity       | | 180mAh                                |
+
+| Watch material         | | Zinc alloy or plastic                 |
 
 
