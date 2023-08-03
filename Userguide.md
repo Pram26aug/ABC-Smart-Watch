@@ -1,4 +1,4 @@
-#ABC Smart Watch User Guide#   
+# ABC Smart Watch User Guide #   
     
                                                                           
  Image Source: Best smartwatches compared: Options for every budget reviewed - Wareable
