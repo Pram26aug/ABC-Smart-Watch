@@ -148,6 +148,55 @@ o	Tap the checkmark to confirm.
 15.	# Stopwatch #
     Enter the setting menu can enabled this function.
 
+# Notes # 
+
+1.	Should not be worn when bathing and swimming.
+
+2.	Unable to connect or can’t find the watch. Please check whether the watch has electricity and it is in power on state. If the watch power is turned on, it can’t find the device, indicating that the device 
+    is binding to other mobile phones. It should be removed from the other mobile phone first, and the Android phone is found in the additional device. To the device name, then the left slide select the delete 
+    device, if the use an Android phone, in addition to the APP in the deletion of the device, but also need to find the device name in the Bluetooth settings, click ignore the device, you can connect the new 
+    cell phone.
+
+3.	When it is found that part of the function of the watch can not be used, pay attention to opening all kinds of function permissions when setting up the APP software.
+
+
+
+# Frequently Asked Questions # 
+ 
+1.	 How far away can my Smartwatch be from my phone and still be connected?
+
+     The range of the wireless Bluetooth connection between your phone and your smartwatch can vary greatly depending on the environment. In general, you should have at least 10meters (or 30 feet) of 
+     connectivity.
+
+2.	How many smartwatches can I pair with the app at one time?
+
+    iOS: Only one watch can be paired with the app at a time. 
+    Android multiple watches can be paired with the app simultaneously.
+
+3.	Why does my Smartwatch make me enter a pin?
+    Your smartwatch can identify when you remove the watch from your wrist and asks for your PIN to re-access watch information and functionality. This is a security measure to prevent strangers from accessing 
+    your personal data if the watch has been recently removed from your wrist or stolen. 
+
+
+  # Case Study #
+  
+ 1. Successful smartwatch delivery #
+   The smartwatch team was able to deliver a functioning and integrated product in record time and plan to use it as the platform to create new devices going forward. 
+   Based on their experience with Crank Software, the team’s product manager has advice for other smartwatch and wearables developers.
+
+ 2. “Find the tools that decouple risk from development tasks, like design changes, adding flare that doesn’t bog down the system, and hardware validation. With something like Storyboard, we accelerated our 
+    smartwatch development process by taking advantage of rapid design iterations based on stakeholder feedback and faster testing through the desktop simulator. Supported by the Crank team, we’re opening up 
+    new revenue markets and will continue to evolve the personality of our product to meet consumers’ needs.”
+         
+
+
+
+# References #
+https://manuals.plus/smart-watch/smart-watch-manual-13#documents_resources. (n.d.).
+https://support.google.com/wearos/answer/6056630?hl=en&co=GENIE.Platform%3DAndroid. (n.d.).
+https://www.citizenwatch.co.uk/smartwatch-general-set-up. (n.d.).
+
+
 
 
 
