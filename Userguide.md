@@ -28,7 +28,9 @@ References	8
 # Parameters #
 
 | Product Specifications | | Details                               |
-  -----------------------    --------------------------------------
+
+| ---------------------- | | ------------------------------------- |
+
 | Bluetooth              | | BT 4.0                                |
 
 | Charging mode          | | Clip-charging & magnetic-suction type |
