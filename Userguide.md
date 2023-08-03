@@ -27,24 +27,24 @@ References	8
 
 # Parameters #
 
-| Product Specifications | | Details                               |
+| ProductSpecifications | | Details                               |
 
 | ---------------------- | | ------------------------------------- |
 
-| Bluetooth              | | BT 4.0                                |
+| Bluetooth              | | BT4.0                                |
 
-| Charging mode          | | Clip-charging & magnetic-suction type |
+| Chargingmode          | | Clip-charging&magnetic-suctiontype |
 
-| Charging voltage       | | DC 5V                                 |
+| Chargingvoltage       | | DC5V                                 |
 
-| Charging current       | |100mA                                  |
+| Chargingcurrent       | |100mA                                  |
 
-| Screen                 | | 1.3 TFT color screen                  |
+| Screen                 | | 1.3TFTcolorscreen                  |
 
-| Battery type           | | Polymer lithium battery               |
+| Batterytype           | | Polymerlithiumbattery               |
 
-| Battery capacity       | | 180mAh                                |
+| Batterycapacity       | | 180mAh                                |
 
-| Watch material         | | Zinc alloy or plastic                 |
+| Watchmaterial         | | Zincalloyorplastic                 |
 
 
