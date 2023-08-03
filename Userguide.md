@@ -1,6 +1,7 @@
 # ABC Smart Watch User Guide # 
 
-![image](https://github.com/)
+![image](https://github.com/Pram26aug/ABC-Smart-Watch/assets/140975258/a51c20fd-e997-47d3-bfea-0dc886f8000a)
+
                                                                           
  Image Source: Best smartwatches compared: Options for every budget reviewed -Wearable
 
@@ -48,5 +49,15 @@ References	8
 | Battery capacity       | | 180mAh                                |
 
 | Watch material         | | Zinc alloy or plastic                 |
+
+
+# Components #
+
+![image](https://github.com/Pram26aug/ABC-Smart-Watch/assets/140975258/87ca7c08-7d91-446c-97d1-cf8bb921987e)
+
+
+
+
+
 
 
