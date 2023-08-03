@@ -58,7 +58,7 @@ References	8
 
 # Setting up your smartwatch #
 
-Setting up your ABC Smart Watch is quick and easy, and it works with ==Android and iOS phones==. Full Setting Instructions are given in the sections below,
+Setting up your ABC Smart Watch is quick and easy, and it works with == Android and iOS phones ==. Full Setting Instructions are given in the sections below,
 
 
 
