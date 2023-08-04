@@ -58,7 +58,9 @@ References
 Setting up your ABC Smart Watch is quick and easy, and it works with ```Android and iOS phones```. Full Setting Instructions are given in the sections below,
 
 1. # Power on the Watch #  
-Make sure the smartwatch is charged before trying to power it on. Press and hold down the middle pusher button for at least three seconds. The smartwatch will also power on when connected to the charger.
+* Make sure the smartwatch is charged before trying to power it on. 
+* Press and hold down the middle pusher button for at least three seconds. 
+* The smartwatch will also power on when connected to the charger.
 
 
 2. # Pair my Smartwatch to my phone #
@@ -80,15 +82,23 @@ Follow the onscreen instructions on your phone and watch to complete pairing and
 
 
 3. # Connect the Smartwatch to Wi-Fi #
+   
 Press the middle button or swipe down from the top of your screen.
 
 o	Scroll and tap on Settings.
+
 o	Tap on Connectivity.
+
 o	Tap on Wi-Fi.
+
 o	Tap on Add network.
+
 o	Scroll to find your network and tap.
+
 o	Power on the phone and start XYZ OS by Google app.
+
 o	Tap Enter on the phone to complete the password entry.
+
 o	Enter the password on the phone.
 
 *Note: If your watch is paired with an Android phone and has Wi-Fi, your watch can automatically connect to saved Wi-Fi networks when it loses the Bluetooth connection with your phone. That way, you can get notifications and use voice search on your watch throughout your home and work even when you leave your phone in a different room*.
@@ -97,9 +107,13 @@ o	Enter the password on the phone.
 4. # Power off my Smartwatch? #
 
 o	Press the middle button or swipe down from the top of your screen.
+
 o	Scroll and tap on Settings.
+
 o	Tap on System.
+
 o	Swipe up and tap Power Off.
+
 o	Tap the checkmark to confirm.
 
 # ABC Smartwatch Features You Need to Consider #
