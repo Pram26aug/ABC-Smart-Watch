@@ -210,7 +210,9 @@ Press the middle button or swipe down from the top of your screen.
 
 # References #
 https://manuals.plus/smart-watch/smart-watch-manual-13#documents_resources. (n.d.).
+
 https://support.google.com/wearos/answer/6056630?hl=en&co=GENIE.Platform%3DAndroid. (n.d.).
+
 https://www.citizenwatch.co.uk/smartwatch-general-set-up. (n.d.).
 
 
