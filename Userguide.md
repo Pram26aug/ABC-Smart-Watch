@@ -27,9 +27,6 @@ References
 
 # Parameters #
 
-| Description | Syntex |
-
-| ----------- | ------ |
 
 | Product Specifications | Details |
 
