@@ -65,11 +65,17 @@ Make sure the smartwatch is charged before trying to power it on. Press and hold
 
 To use your ABC Watch, you need to pair your Watch with phones running ```Android 4.4``` and above. Setup assistants on your phone and Watch work together to help you pair and set up your ABC Watch.
 Before you start, charge your watch and phone, then follow these steps:
+
 o	On the watch: Select language, then scroll down to find the watch name.
+
 o	On the phone: Open the ```XYZ OS by Google app``` and tap Get Started. Select your watch name. Allow Bluetooth to connect to your watch.
+
 o	A pairing code will appear on your watch and phone. Confirm that they match.
+
 o	You’ll see a confirmation message once your watch is paired. This can take a few minutes.
+
 Follow the onscreen instructions on your phone and watch to complete pairing and setup.
+
 *Note: Your watch may automatically install an update and restart after it’s paired with your phone. If it begins downloading an update, keep the phone near your watch and ensure your watch stays charging until the update is finished*.
 
 
