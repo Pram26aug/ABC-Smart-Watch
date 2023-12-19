@@ -78,7 +78,7 @@ Before you start, charge your watch and phone, then follow these steps:
 
 Follow the onscreen instructions on your phone and watch to complete pairing and setup.
 
-* Note: Your watch may automatically install an update and restart after it’s paired with your phone. If it begins downloading an update, keep the phone near your watch and ensure your watch stays charging until the update is finished*.
+*Note: Your watch may automatically install an update and restart after it’s paired with your phone. If it begins downloading an update, keep the phone near your watch and ensure your watch stays charging until the update is finished*.
 
 
 3. # Connect the Smartwatch to Wi-Fi #
